@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 837 295" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-81.9521,-489.001)">
+        <g transform="matrix(1,0,0,0.89,0,0)">
+            <g transform="matrix(1,0,0,1.1236,-39.9552,-22.4719)">
+                <text x="104px" y="648px" style="font-family:'Moon-Bold', 'Moon';font-weight:700;font-size:198.239px;fill:rgb(255,84,0);">infinity</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,0.89,0,0)">
+            <g transform="matrix(0.889265,0,0,0.999175,109.215,232.988)">
+                <text x="104px" y="648px" style="font-family:'Moon-Light', 'Moon';font-weight:300;font-size:198.239px;fill:rgb(255,110,0);">client</text>
+            </g>
+        </g>
+    </g>
+
+    <defs>
+    <style type="text/css">
+        @font-face {
+            font-family: moon;
+            src: url(fonts/MoonLight.otf);
+        }
+
+        @font-face {
+            font-family: moon-bold;
+            src: url(fonts/MoonBold.otf);
+        }
+    </style>
+</defs>
+</svg>
